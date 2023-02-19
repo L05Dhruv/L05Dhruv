@@ -5,7 +5,7 @@
 
 </div>
   
-<h4 align="center">I am an experienced software engineer with a passion for working with new technologies and solving complex problems. I am also a core team member and co-creator of Cachier, an open-source library of GraphQL caching solutions built for Node.js.
+<h4 align="center">I'm an experienced software engineer with a passion for working on new technologies and solving complex problems. I am also a core team member and co-creator of Cachier, an open-source library of GraphQL caching solutions built for Node.js.
 <br>
 <br>
 My other experiences include building and deploying highly-functional, user-friendly, full-stack products incorporating JavaScript/ES6+, TypeScript, React, Redux, Node.js/Express.</h4>
