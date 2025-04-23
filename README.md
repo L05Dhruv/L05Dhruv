@@ -5,11 +5,11 @@
 
 </div>
   
-<h4 >Solving complex problems + trying to implement some of my ever-expanding "App Ideas" note. </h4>
-<p>I am co-creator of Cachier, an open-source library of GraphQL caching solutions built for Node.js. I'm a founding engineer and tech lead for a two startups and a dev agency.</p>
+<h4 >Solving complex problems + implementing some of my ever-expanding "App Ideas". </h4>
+<p>I am co-creator of Cachier, an open-source library of GraphQL caching solutions built for Node.js. I'm a founding engineer and tech lead.</p>
 <h4 >🔭 I value highly-functional, user-friendly, full-stack products.</h4>
 <h3>Bucket List Projects</h3>
-<p>Web-based video game, 3D platformer video game, Financial trading data aggregator, an informative and enjoyable blog, marketing automation</p>
+<p>Web-based video game, 3D platformer video game, Financial trading data aggregator, an informative and enjoyable blog, effective marketing automation.</p>
 <h3 align="left">Skills & Technologies:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
